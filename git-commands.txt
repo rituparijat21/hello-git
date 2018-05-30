@@ -1,0 +1,23 @@
+Following are some git commands -
+1. git init - tell git that you need its services. 
+		.git folder will be created.
+2. nano filename.txt - just code here on this editor.
+3. git status - we can ask Git what is going on in our repository.
+4. git add filename.txt - we must tell git to track those changes.
+5. get commit -m "initial commit" - we need to commit the changes to 
+					make them permanent.
+6. git config --global user.name - you have to introduce yourself with 
+					username.
+7. git config --global user.mail - you have to introduce yourself with 
+					email.
+8. git remote add origin link - Configure your project repository to 
+				github.
+9. git remote -v - It will give all the details of the file.
+10. git push origin master - upload your project to github.
+11. less filename.txt - It will display all the contents of the file.
+
+GIT - GIT is primrarily used for source code management in software 
+	development.
+GITHUB - It is cemtralized cloud storage for the code.
+Repository - It is a special kind of directory which we have told Git to 
+		keep an eye on.
